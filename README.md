@@ -12,7 +12,7 @@ E: Shoot
 
 R: Special skill
 
-
+============================
 Player 2 Keyboard:
 
 Arrowkey: Movement
