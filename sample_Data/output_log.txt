@@ -1,0 +1,166 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 26.21.14.3648]
+    Renderer: NVIDIA GeForce GTX 1060
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 26.21.14.3648]
+    Renderer: NVIDIA GeForce GTX 1060
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.342 seconds
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.086700 ms
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Documents\New Unity Project 1\sample_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Documents\New Unity Project 1\sample_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+playermax 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Usekeyboard1 = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Usekeyboard2 = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Usekeyboard3 = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Usekeyboard4 = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player1 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player2 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+playernum 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coop
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.088400 ms
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2229.
+Total: 0.599600 ms (FindLiveObjects: 0.081100 ms CreateObjectMapping: 0.033700 ms MarkObjects: 0.471500 ms  DeleteObjects: 0.012400 ms)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.164700 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 711.
+Total: 1.301500 ms (FindLiveObjects: 0.884300 ms CreateObjectMapping: 0.025400 ms MarkObjects: 0.224300 ms  DeleteObjects: 0.167100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.465800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 711.
+Total: 0.198600 ms (FindLiveObjects: 0.019800 ms CreateObjectMapping: 0.012300 ms MarkObjects: 0.163400 ms  DeleteObjects: 0.002800 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 11dec -> priority: 1 
+  Thread -> id: 51040 -> priority: 1 
+  Thread -> id: 1b2fc -> priority: 1 
