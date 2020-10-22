@@ -5,12 +5,19 @@ This is a 2D platformer brawling game. I'm trying to make a Megaman-style Smash 
 Controls:
 
 Player 1 Keyboard:
+
 WASD: Movement
+
 E: Shoot
+
 R: Special skill
 
+
 Player 2 Keyboard:
+
 Arrowkey: Movement
+
 /: Shoot
+
 ': Special skill
 
